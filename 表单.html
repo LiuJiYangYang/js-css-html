@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
-<body>
+<form>
 <!--所以的表单要填写的数据都要放在form标签中嵌套-->
 <!--action代表要提交给哪一个后台程序-->
 <!--method 代表传输过程中使用那种形式post(加密) get(不加密)-->
@@ -14,13 +14,53 @@
 <!--id代表此输入框的id编号-->
 <!--value代表默认文字，文本框的文字-->
 <!--昵称：<input type="text" name="hha" id="hhee" value="哈哈哈呵呵" />-->
-昵称：<input type="text" name="hha" id="hhee" placeholder="哈哈哈呵呵" /><br>
+昵称：<input type="text" name="hha" id="hhee" placeholder="哈哈哈呵呵" autofocus="autofocus"/><br>
 <!--placeholder属性属于html5最新的属性，它不兼容ie低版本浏览器（6、7、8、9）
 此效果虽然低版本ie不支持，但是不会造成页面的混乱，我们就认为此属性没有问题，
 以渐进增强（随着浏览器版本的升高用户体验越来越好）优雅降级（高版本浏览器效果好，保证低版本浏览器不混乱）-->
 密码：<input type="password" /><br>
 <!--性别：<input type="radio" />男<input type="radio" />女<input type="radio" />保密-->
-性别：<input type="radio" name="xb" id="nan" /><label for="nan">男</label><input type="radio" name="xb" id="nv"/><label for="nv">女</label><input type="radio" name="xb" id="mi"/><label for="mi">保密</label>
+性别：<input type="radio" name="xb" id="nan" /><label for="nan">男</label><input type="radio" name="xb" id="nv"/><label for="nv">女</label><input type="radio" name="xb" id="mi"/><label for="mi">保密</label><br>
+地址：
+<select name="" id="">
+    <option value="" selected="selected">杭州</option>
+    <option value="">上海</option>
+    <option value="">北京</option>
+    <option value="">武汉</option>
+    <option value="">黄冈</option>
+    <option value="">浙江</option>
+</select>
+<select name="" >
+    <optgroup label="杭州"></optgroup>
+    <option value="" selected="selected">余杭区</option>
+    <option value="">上城区</option>
+    <option value="">下城区</option>
+    <option value="">江干区</option>
+    <option value="">拱墅区</option>
+    <option value="">滨江区</option>
+    <option value="">萧山区</option>
+    <option value="">富阳区</option>
+    <optgroup label="上海"></optgroup>
+    <option value="">滨江</option>
+    <option value="">昌平</option>
+    <option value="">邯郸</option>
+    <option value="">顺义</option>
+    <optgroup label="深圳"></optgroup>
+    <option value="">罗湖区</option>
+    <option value="">福田区</option>
+    <option value="">宝山区</option>
+    <option value="">东莞</option>
+</select><br>
+<!--textarea文本域不能设置rows,cols属性因为浏览器解析的结果都不是一样，如果让每个浏览器大小相同必须设置width、height才可以-->
+介绍：
+<textarea name="" cols="30" rows="10" placeholder="请输入文字"></textarea><br>
+你的爱好是：<input type="checkbox" checked="checked" id="pb" /><label for="pb">跑步</label><input type="checkbox" id="tg"/><label for="tg">跳高</label><input type="checkbox" id="ms"/><label
+        for="ms">美食</label><br>
+<input type="submit" value="提交" />
+<input type="reset" >
+    <input type="button" value="按钮">
+    <button>按钮</button>
+</form>
 
 </body>
 </html>
