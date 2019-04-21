@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32ae6d7a-dd0c-4e21-a0a8-06c8b2cd9167" name="Default Changelist" comment="相对路径绝对路劲">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/路径/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/00001.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/04标签选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/Img标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/bui标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/css基础语法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/css基础语法1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/html文章标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/id选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/js-css-html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/new.file.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/内嵌式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/制作Google.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/外链式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/实体化.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/我的第一个网站.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/标签选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/类选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/行内css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/表单.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/超链接.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webxue/选择器权重.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00001.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04标签选择器.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img标签.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bui标签.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css基础语法.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css基础语法1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html文章标签.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/id选择器.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.file.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/内嵌式.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/制作Google.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/外链式.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实体化.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的第一个网站.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的页面/首页.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的页面/首页.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/标签选择器.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/类选择器.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/行内css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/表单.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/超链接.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/选择器权重.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="js-css-html" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text/边框属性.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text/边框属性1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text/css盒子模型.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html5新标签/html5标签.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/我的页面/首页.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webxue/实体化.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webxue/标签选择器.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webxue/超链接.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/00001.html" />
+        <option value="$PROJECT_DIR$/.idea/我的第一个网站.html" />
+        <option value="$PROJECT_DIR$/我的第一个网站.html" />
+        <option value="$PROJECT_DIR$/html文章标签.html" />
+        <option value="$PROJECT_DIR$/bui标签.html" />
+        <option value="$PROJECT_DIR$/Img标签.html" />
+        <option value="$PROJECT_DIR$/.idea/package.json" />
+        <option value="$PROJECT_DIR$/.idea/路径/路径.html" />
+        <option value="$PROJECT_DIR$/.idea/超链接.html" />
+        <option value="$PROJECT_DIR$/超链接.html" />
+        <option value="$PROJECT_DIR$/表单.html" />
+        <option value="$PROJECT_DIR$/css基础语法.html" />
+        <option value="$PROJECT_DIR$/04标签选择器.html" />
+        <option value="$PROJECT_DIR$/实体化.html" />
+        <option value="$PROJECT_DIR$/标签选择器.html" />
+        <option value="$PROJECT_DIR$/id选择器.html" />
+        <option value="$PROJECT_DIR$/类选择器.html" />
+        <option value="$PROJECT_DIR$/制作Google.html" />
+        <option value="$PROJECT_DIR$/new.file.css" />
+        <option value="$PROJECT_DIR$/外链式.html" />
+        <option value="$PROJECT_DIR$/行内css.html" />
+        <option value="$PROJECT_DIR$/内嵌式.html" />
+        <option value="$PROJECT_DIR$/选择器权重.html" />
+        <option value="$PROJECT_DIR$/css基础语法1.html" />
+        <option value="$PROJECT_DIR$/text/部分代码选器.html" />
+        <option value="$PROJECT_DIR$/text/标签指定式.html" />
+        <option value="$PROJECT_DIR$/text/并行选择器.html" />
+        <option value="$PROJECT_DIR$/text/高级选择器权重对比.html" />
+        <option value="$PROJECT_DIR$/text/高级选择器权重对比2.html" />
+        <option value="$PROJECT_DIR$/text/my.css" />
+        <option value="$PROJECT_DIR$/text/高权重对比.html" />
+        <option value="$PROJECT_DIR$/text/css常用文字属性.html" />
+        <option value="$PROJECT_DIR$/text/行高.html" />
+        <option value="$PROJECT_DIR$/text/边框属性.html" />
+        <option value="$PROJECT_DIR$/text/边框属性1.html" />
+        <option value="$PROJECT_DIR$/text/css盒子模型.html" />
+        <option value="$PROJECT_DIR$/html5新标签/html5标签.html" />
+        <option value="$PROJECT_DIR$/我的页面/workdown.html" />
+        <option value="$PROJECT_DIR$/我的页面/首页.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="87" />
+    <option name="width" value="972" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="js-css-html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js-css-html" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555736176632" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\11839\Desktop\问题点及总结\js-css-html\webxue" />
+      <recent name="C:\Users\11839\Desktop\问题点及总结\js-css-html" />
+      <recent name="C:\Users\11839\Desktop\问题点及总结\js-css-html\.idea\路径" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.表单.html">
+    <configuration name="Img标签.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js-css-html/Img标签.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="表单.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js-css-html/表单.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="路径.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js-css-html/.idea/路径/路径.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="bui标签.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js-css-html/bui标签.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="html文章标签.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js-css-html/html文章标签.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.表单.html" />
+        <item itemvalue="JavaScript Debug.Img标签.html" />
+        <item itemvalue="JavaScript Debug.bui标签.html" />
+        <item itemvalue="JavaScript Debug.html文章标签.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32ae6d7a-dd0c-4e21-a0a8-06c8b2cd9167" name="Default Changelist" comment="" />
+      <created>1554899884834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554899884834</updated>
+      <workItem from="1554899886274" duration="723000" />
+      <workItem from="1555036280010" duration="5796000" />
+      <workItem from="1555046520044" duration="71000" />
+      <workItem from="1555052796155" duration="22318000" />
+      <workItem from="1555121904720" duration="2822000" />
+      <workItem from="1555207992738" duration="30324000" />
+      <workItem from="1555247140954" duration="3864000" />
+      <workItem from="1555251383937" duration="3338000" />
+      <workItem from="1555735218798" duration="1041000" />
+      <workItem from="1555736344424" duration="244000" />
+      <workItem from="1555736627611" duration="95000" />
+    </task>
+    <task id="LOCAL-00001" summary="--------------------------------------------">
+      <created>1554899991161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554899991161</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一个网页">
+      <created>1555041436508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555041436508</updated>
+    </task>
+    <task id="LOCAL-00003" summary="bui标签">
+      <created>1555044905418</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555044905419</updated>
+    </task>
+    <task id="LOCAL-00004" summary="bui标签更新">
+      <created>1555046169365</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555046169365</updated>
+    </task>
+    <task id="LOCAL-00005" summary="相对路径绝对路劲">
+      <created>1555058185681</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1555058185681</updated>
+    </task>
+    <task id="LOCAL-00006" summary="表单">
+      <created>1555064518633</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555064518633</updated>
+    </task>
+    <task id="LOCAL-00007" summary="单选按钮">
+      <created>1555066608262</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1555066608262</updated>
+    </task>
+    <task id="LOCAL-00008" summary="按钮">
+      <created>1555083915663</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1555083915663</updated>
+    </task>
+    <task id="LOCAL-00009" summary="实体化">
+      <created>1555124689639</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1555124689639</updated>
+    </task>
+    <task id="LOCAL-00010" summary="标签选择器">
+      <created>1555210042404</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1555210042404</updated>
+    </task>
+    <task id="LOCAL-00011" summary="类选择器">
+      <created>1555211431644</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1555211431644</updated>
+    </task>
+    <task id="LOCAL-00012" summary="制作Google标签">
+      <created>1555213717241</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1555213717242</updated>
+    </task>
+    <task id="LOCAL-00013" summary="外链式">
+      <created>1555216654164</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1555216654164</updated>
+    </task>
+    <task id="LOCAL-00014" summary="内嵌式、外链式、行内">
+      <created>1555218676813</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1555218676813</updated>
+    </task>
+    <task id="LOCAL-00015" summary="选择器权重">
+      <created>1555219835299</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1555219835299</updated>
+    </task>
+    <task id="LOCAL-00016" summary="css基础语法1">
+      <created>1555220659104</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1555220659105</updated>
+    </task>
+    <task id="LOCAL-00017" summary="全部">
+      <created>1555220738609</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1555220738609</updated>
+    </task>
+    <task id="LOCAL-00018" summary="权重比">
+      <created>1555232436224</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1555232436224</updated>
+    </task>
+    <task id="LOCAL-00019" summary="盒子模型">
+      <created>1555239424080</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1555239424080</updated>
+    </task>
+    <task id="LOCAL-00020" summary="html">
+      <created>1555240632430</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1555240632430</updated>
+    </task>
+    <task id="LOCAL-00021" summary="workdown1">
+      <created>1555252735433</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1555252735433</updated>
+    </task>
+    <task id="LOCAL-00022" summary="workdown居中text-align: center">
+      <created>1555253527502</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1555253527502</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="70636000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="87" y="0" width="972" height="1087" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49947533" visible="true" weight="0.21491228" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24938875" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50052464" side_tool="true" weight="0.2616137" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32948583" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39979014" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32843652" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32948583" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32948583" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2616137" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39979014" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32914045" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="--------------------------------------------" />
+    <MESSAGE value="第一个网页" />
+    <MESSAGE value="bui标签" />
+    <MESSAGE value="bui标签更新" />
+    <MESSAGE value="相对路径/绝对路劲" />
+    <MESSAGE value="相对路径绝对路劲" />
+    <MESSAGE value="链接" />
+    <MESSAGE value="表单" />
+    <MESSAGE value="单选按钮" />
+    <MESSAGE value="按钮" />
+    <MESSAGE value="实体化" />
+    <MESSAGE value="标签选择器" />
+    <MESSAGE value="类选择器" />
+    <MESSAGE value="制作Google标签" />
+    <MESSAGE value="外链式" />
+    <MESSAGE value="内嵌式、外链式、行内" />
+    <MESSAGE value="选择器权重" />
+    <MESSAGE value="css基础语法1" />
+    <MESSAGE value="全部" />
+    <MESSAGE value="权重比" />
+    <MESSAGE value="盒子模型" />
+    <MESSAGE value="html" />
+    <MESSAGE value="workdown1" />
+    <MESSAGE value="workdown居中text-align: center" />
+    <option name="LAST_COMMIT_MESSAGE" value="workdown居中text-align: center" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/00001.html" />
+    <entry file="file://$PROJECT_DIR$/.idea/package.json" />
+    <entry file="file://$PROJECT_DIR$/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/.idea/路径/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/超链接.html" />
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/路径/路径.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bui标签.html" />
+    <entry file="file://$PROJECT_DIR$/表单.html" />
+    <entry file="file://$PROJECT_DIR$/04标签选择器.html" />
+    <entry file="file://$PROJECT_DIR$/id选择器.html" />
+    <entry file="file://$PROJECT_DIR$/类选择器.html" />
+    <entry file="file://$PROJECT_DIR$/内嵌式.html" />
+    <entry file="file://$PROJECT_DIR$/超链接.html" />
+    <entry file="file://$PROJECT_DIR$/外链式.html" />
+    <entry file="file://$PROJECT_DIR$/选择器权重.html" />
+    <entry file="file://$PROJECT_DIR$/我的第一个网站.html" />
+    <entry file="file://$PROJECT_DIR$/标签选择器.html" />
+    <entry file="file://$PROJECT_DIR$/行内css.html" />
+    <entry file="file://$PROJECT_DIR$/css基础语法.html" />
+    <entry file="file://$PROJECT_DIR$/new.file.css" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/制作Google.html" />
+    <entry file="file://$PROJECT_DIR$/html文章标签.html" />
+    <entry file="file://$PROJECT_DIR$/Img标签.html" />
+    <entry file="file://$PROJECT_DIR$/实体化.html" />
+    <entry file="file://$PROJECT_DIR$/css基础语法1.html" />
+    <entry file="file://$PROJECT_DIR$/web学习/内嵌式.html" />
+    <entry file="file://$PROJECT_DIR$/web学习/js-css-html.iml" />
+    <entry file="file://$PROJECT_DIR$/text/后代代码选器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/并行选择器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/标签指定式.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/高级选择器权重对比1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/高级选择器权重对比2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/my.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/高权重对比.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/css常用文字属性.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/行高.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web学习/04标签选择器.html" />
+    <entry file="file://$PROJECT_DIR$/webxue/类选择器.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webxue/行内css.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webxue/表单.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="60" column="2" selection-start-line="60" selection-start-column="2" selection-end-line="60" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/我的页面/workdown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/边框属性.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/边框属性1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text/css盒子模型.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html5新标签/html5标签.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webxue/实体化.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webxue/标签选择器.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webxue/超链接.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/我的页面/首页.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
